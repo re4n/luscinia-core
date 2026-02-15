@@ -1,6 +1,6 @@
 spring:
   application:
-    name: luscinia-siem
+    name: luscinia-core
 
   # Database Configuration
   datasource:
