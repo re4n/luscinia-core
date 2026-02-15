@@ -37,3 +37,12 @@ build/
 
 ### Logs ###
 *.log
+
+### Environment Variables ###
+.env
+.env.local
+docker-compose.yml
+
+
+### DB ###
+postgres_data/
